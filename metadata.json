@@ -1,0 +1,6 @@
+{
+  "name": "ContrasteDiario — Comparador Diario de Prensa de España",
+  "description": "Comparador diario determinista de prensa española por temas y perspectivas editoriales: El País, El Mundo, El Debate, The Objective, elDiario.es, Vozpópuli y La Razón.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

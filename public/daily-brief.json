@@ -1,0 +1,661 @@
+{
+  "date": "2026-11-23",
+  "editionLabel": "Edición publicada · Parte diario automatizado",
+  "topics": {
+    "politica": {
+      "topicId": "politica",
+      "topicTitle": "Negociación de los Presupuestos Generales y aritmética parlamentaria",
+      "contextDeck": "El Congreso abre una nueva ronda de contactos para fijar la senda de estabilidad y asegurar apoyos antes de tramitar las cuentas públicas del próximo ejercicio.",
+      "primarySources": [
+        "Boletín Oficial de las Cortes Generales",
+        "Ministerio de Hacienda (Senda de Estabilidad)",
+        "Informes de la AIReF sobre regla de gasto"
+      ],
+      "convergences": [
+        "Todas las cabeceras confirman que la votación de la senda de déficit condiciona el calendario completo de los Presupuestos Generales del Estado.",
+        "Coinciden en que las demandas de financiación autonómica y las inversiones territoriales centran los intercambios entre el Ejecutivo y los grupos parlamentarios.",
+        "Recogen los mismos límites de déficit y deuda marcados por las reglas fiscales europeas vigentes."
+      ],
+      "divergences": [
+        "Un bloque editorial enfatiza la estabilidad institucional y la necesidad de aprobar cuentas para ejecutar fondos europeos, mientras otro subraya el coste político de las cesiones a socios minoritarios.",
+        "Difieren al valorar si una eventual prórroga presupuestaria bloquea la acción de gobierno o limita únicamente nuevas partidas discrecionales.",
+        "Varía el foco sobre quién asume el desgaste electoral en caso de bloqueo: el Ejecutivo por falta de mayoría estable o la oposición por rechazo frontal."
+      ],
+      "criticalQuestions": [
+        "¿Qué porcentaje real del presupuesto queda afectado si se prorrogan las cuentas frente a las partidas ya comprometidas por ley?",
+        "¿Coinciden los compromisos anunciados en rueda de prensa con los textos registrados formalmente en el Congreso?"
+      ],
+      "outlets": {
+        "el-pais": {
+          "outletId": "el-pais",
+          "angleType": "Institucional / Gobernanza",
+          "headline": "El Gobierno busca blindar la senda fiscal para dar certidumbre a los Presupuestos y cumplir con Bruselas",
+          "summary": "Sitúa en primer plano la continuidad de la agenda reformista y la exigencia de ofrecer previsibilidad macroeconómica ante la Comisión Europea.",
+          "emphasizes": [
+            "Margen de diálogo con los socios habituales para evitar un bloqueo prolongado.",
+            "Impacto de unas cuentas actualizadas en gasto social e inversión pública."
+          ],
+          "questionsOrNuances": [
+            "Matiza las tensiones internas entre socios priorizando la estabilidad de la legislatura.",
+            "Plantea si el principal partido de la oposición ofrecerá una alternativa presupuestaria detallada."
+          ],
+          "articleUrl": "https://elpais.com/espana/"
+        },
+        "el-mundo": {
+          "outletId": "el-mundo",
+          "angleType": "Dinámica de Poder / Partidos",
+          "headline": "La debilidad aritmética en el Congreso encarece cada voto y amenaza con una nueva prórroga presupuestaria",
+          "summary": "Pone el acento en la fragmentación parlamentaria y en el poder de veto que adquieren las formaciones territoriales en cada votación clave.",
+          "emphasizes": [
+            "Exigencias cruzadas de distintos grupos que dificultan cerrar un texto único.",
+            "Riesgo de parálisis legislativa si no se consolida una mayoría estable."
+          ],
+          "questionsOrNuances": [
+            "Cuestiona la viabilidad de gobernar mediante decretos y prórrogas sucesivas.",
+            "Destaca las fricciones entre compromisos territoriales y equilibrio financiero."
+          ],
+          "articleUrl": "https://www.elmundo.es/espana.html"
+        },
+        "el-debate": {
+          "outletId": "el-debate",
+          "angleType": "Confrontación Política",
+          "headline": "El pulso territorial condiciona las cuentas del Estado y reabre el debate sobre la igualdad entre comunidades",
+          "summary": "Enfoca la negociación desde la cohesión nacional y el principio de solidaridad interterritorial en el reparto de recursos públicos.",
+          "emphasizes": [
+            "Impacto de posibles acuerdos bilaterales sobre el sistema común de financiación.",
+            "Críticas de presidentes autonómicos y sectores institucionales al formato de las negociaciones."
+          ],
+          "questionsOrNuances": [
+            "Subraya el contraste entre el discurso oficial de diálogo y las concesiones pactadas fuera del pleno.",
+            "Reclama transparencia íntegra sobre las contrapartidas presupuestarias."
+          ],
+          "articleUrl": "https://www.eldebate.com/espana/"
+        },
+        "the-objective": {
+          "outletId": "the-objective",
+          "angleType": "Fiscalización / Investigación",
+          "headline": "Los contactos reservados de Hacienda revelan líneas rojas incompatibles entre los socios de investidura",
+          "summary": "Analiza la trastienda de las negociaciones, detallando las reuniones discretas entre portavoces y las partidas exigidas por cada grupo.",
+          "emphasizes": [
+            "Diferencias técnicas entre lo prometido políticamente y los márgenes reales del Tesoro.",
+            "Malestar en segundas líneas de los ministerios ante la falta de calendario cerrado."
+          ],
+          "questionsOrNuances": [
+            "Pregunta qué partidas previstas en borradores previos han sido descartadas en la mesa de negociación.",
+            "Contrasta las cifras de ejecución presupuestaria de ejercicios anteriores."
+          ],
+          "articleUrl": "https://theobjective.com/espana/"
+        },
+        "eldiario": {
+          "outletId": "eldiario",
+          "angleType": "Derechos Sociales / Desigualdad",
+          "headline": "La batalla presupuestaria se decide entre reforzar servicios públicos y mantener incentivos fiscales",
+          "summary": "Orienta el foco hacia qué capítulos sociales, educativos y de dependencia dependen de la aprobación de nuevas cuentas.",
+          "emphasizes": [
+            "Propuestas para sostener la financiación de sanidad, educación y escudo social.",
+            "Presión de los grupos a la izquierda del Ejecutivo para introducir medidas fiscales progresivas."
+          ],
+          "questionsOrNuances": [
+            "Advierte de que las reglas fiscales europeas pueden restringir el margen inversor si no se amplían ingresos.",
+            "Evalúa el impacto distributivo de cada enmienda negociada."
+          ],
+          "articleUrl": "https://www.eldiario.es/politica/"
+        },
+        "vozpopuli": {
+          "outletId": "vozpopuli",
+          "angleType": "Impacto Económico / Fiscal",
+          "headline": "Empresas y analistas siguen de cerca el cuadro fiscal ante posibles ajustes impositivos en la negociación",
+          "summary": "Examina la senda presupuestaria desde la óptica de la seguridad jurídica, la carga tributaria empresarial y los objetivos de déficit.",
+          "emphasizes": [
+            "Posibles cambios en figuras tributarias para cuadrar el techo de gasto.",
+            "Advertencias de organismos independientes sobre la credibilidad de las previsiones de ingresos."
+          ],
+          "questionsOrNuances": [
+            "Pregunta si el crecimiento recaudatorio bastará para sostener el aumento del gasto comprometido.",
+            "Analiza la reacción de los mercados de deuda ante la incertidumbre parlamentaria."
+          ],
+          "articleUrl": "https://www.vozpopuli.com/espana/"
+        },
+        "la-razon": {
+          "outletId": "la-razon",
+          "angleType": "Crónica Territorial / Social",
+          "headline": "La oposición exige claridad sobre el techo de gasto mientras las autonomías reclaman un consejo de política fiscal",
+          "summary": "Prioriza la crónica parlamentaria y el papel del Senado y las comunidades autónomas como contrapeso institucional en el debate.",
+          "emphasizes": [
+            "Estrategia conjunta de los gobiernos autonómicos frente al reparto de objetivos de déficit.",
+            "Demanda de convocatoria formal del Consejo de Política Fiscal y Financiera."
+          ],
+          "questionsOrNuances": [
+            "Destaca las tensiones en la agenda legislativa ante la cercanía de citas electorales autonómicas.",
+            "Pone en valor el papel fiscalizador del Senado en la tramitación."
+          ],
+          "articleUrl": "https://www.larazon.es/espana/"
+        }
+      }
+    },
+    "economia": {
+      "topicId": "economia",
+      "topicTitle": "Evolución del empleo, costes salariales y reforma fiscal",
+      "contextDeck": "Los últimos datos de afiliación a la Seguridad Social y recaudación tributaria reabren el debate entre competitividad empresarial, poder adquisitivo y sostenibilidad fiscal.",
+      "primarySources": [
+        "Instituto Nacional de Estadística (EPA y Contabilidad Nacional)",
+        "Ministerio de Inclusión, Seguridad Social y Migraciones",
+        "Agencia Tributaria — Informe Mensual de Recaudación"
+      ],
+      "convergences": [
+        "Todos los diarios recogen los mismos datos oficiales de afiliación media, paro registrado y crecimiento interanual del PIB.",
+        "Coinciden en que los ingresos tributarios marcan máximos nominales impulsados por el empleo, la inflación acumulada y las cotizaciones.",
+        "Señalan que la productividad por hora trabajada y la tasa de paro juvenil siguen por detrás de la media de la eurozona."
+      ],
+      "divergences": [
+        "Un bloque interpreta el aumento de afiliados y contratos indefinidos como éxito estructural de la reforma laboral; otro destaca la mayor rotación de fijos discontinuos y la caída de horas trabajadas por empleado.",
+        "Chocan en la política fiscal: unos defienden mantener gravámenes a grandes patrimonios y sectores concretos para reforzar el Estado del bienestar; otros alertan de pérdida de inversión y deflación pendiente del IRPF.",
+        "Difieren sobre el impacto neto de nuevas subidas del salario mínimo o reducción de jornada en las pymes."
+      ],
+      "criticalQuestions": [
+        "¿Qué parte del aumento de la recaudación del IRPF se debe a crecimiento real del empleo y qué parte a la no deflactación de la tarifa frente a la inflación?",
+        "¿Cómo evolucionan conjuntamente la afiliación, las horas efectivas trabajadas (Contabilidad Nacional) y la productividad?"
+      ],
+      "outlets": {
+        "el-pais": {
+          "outletId": "el-pais",
+          "angleType": "Institucional / Gobernanza",
+          "headline": "España consolida el liderazgo de crecimiento en la eurozona con récord de afiliación y avance de la recaudación",
+          "summary": "Destaca el dinamismo macroeconómico comparado con Alemania o Francia y defiende acompasar el crecimiento con mejoras laborales.",
+          "emphasizes": [
+            "Resiliencia del mercado de trabajo y peso del sector servicios y exportaciones no turísticas.",
+            "Estabilidad de las cuentas gracias al impulso de los ingresos fiscales."
+          ],
+          "questionsOrNuances": [
+            "Reconoce el reto pendiente de elevar la productividad y reducir el desempleo de larga duración.",
+            "Apunta a la necesidad de acuerdos en el diálogo social para evitar conflictividad."
+          ],
+          "articleUrl": "https://elpais.com/economia/"
+        },
+        "el-mundo": {
+          "outletId": "el-mundo",
+          "angleType": "Impacto Económico / Fiscal",
+          "headline": "La presión fiscal récord compensa la debilidad de la renta per cápita y lastra el ahorro de las familias",
+          "summary": "Contrasta el titular macroeconómico de PIB agregado con el estancamiento de la renta disponible por hogar y la sobrecarga tributaria.",
+          "emphasizes": [
+            "Efecto de la inflación en los tramos del IRPF sobre las rentas medias y bajas.",
+            "Advertencias patronales por la acumulación de cotizaciones y cambios normativos."
+          ],
+          "questionsOrNuances": [
+            "Pregunta por qué el crecimiento del PIB no se traduce en una convergencia real en PIB per cápita con Europa.",
+            "Subraya el peso creciente del empleo público frente al empleo privado en pequeñas empresas."
+          ],
+          "articleUrl": "https://www.elmundo.es/economia.html"
+        },
+        "el-debate": {
+          "outletId": "el-debate",
+          "angleType": "Impacto Económico / Fiscal",
+          "headline": "Las pymes advierten de un aumento insostenible de los costes laborales y reclaman alivio tributario",
+          "summary": "Pone en primer plano las dificultades de autónomos y pequeñas empresas ante las cotizaciones sociales y las cargas administrativas.",
+          "emphasizes": [
+            "Cierre o estancamiento de microempresas en sectores de comercio y hostelería.",
+            "Crítica a la falta de incentivos al ahorro privado y a la inversión productiva."
+          ],
+          "questionsOrNuances": [
+            "Cuestiona la calidad de parte de los contratos indefinidos contabilizados como estables.",
+            "Reclama una simplificación regulatoria y reducción del gasto público improductivo."
+          ],
+          "articleUrl": "https://www.eldebate.com/economia/"
+        },
+        "the-objective": {
+          "outletId": "the-objective",
+          "angleType": "Fiscalización / Investigación",
+          "headline": "El desglose de horas trabajadas y fijos discontinuos matiza el alcance real del repunte del empleo",
+          "summary": "Cruza las series de Seguridad Social, EPA y Contabilidad Nacional para examinar la duración media de los contratos y la jornada efectiva.",
+          "emphasizes": [
+            "Diferencia entre número total de afiliados y empleo equivalente a tiempo completo.",
+            "Evolución del absentismo laboral y de las bajas de incapacidad temporal."
+          ],
+          "questionsOrNuances": [
+            "Pregunta por la transparencia de los datos de demandantes de empleo con relación laboral.",
+            "Contrasta las previsiones oficiales de déficit con las estimaciones de la AIReF."
+          ],
+          "articleUrl": "https://theobjective.com/economia/"
+        },
+        "eldiario": {
+          "outletId": "eldiario",
+          "angleType": "Derechos Sociales / Desigualdad",
+          "headline": "Los beneficios empresariales crecen por encima de los salarios mientras avanza la negociación por reducir la jornada",
+          "summary": "Sitúa el debate en la distribución de la renta entre capital y trabajo y en el margen de las empresas para mejorar sueldos y horarios.",
+          "emphasizes": [
+            "Márgenes récord en banca, energía y grandes corporaciones según datos de la Agencia Tributaria.",
+            "Beneficios en salud laboral y conciliación de acortar la jornada máxima legal."
+          ],
+          "questionsOrNuances": [
+            "Advierte de que la subida de precios básicos sigue penalizando más a los hogares de menores ingresos.",
+            "Defiende mantener impuestos específicos a grandes fortunas y beneficios extraordinarios."
+          ],
+          "articleUrl": "https://www.eldiario.es/economia/"
+        },
+        "vozpopuli": {
+          "outletId": "vozpopuli",
+          "angleType": "Impacto Económico / Fiscal",
+          "headline": "El Tesoro y el Banco de España vigilan el pulso entre gasto corriente, tipos de interés e inversión privada",
+          "summary": "Analiza la evolución de la deuda pública sobre PIB, la caída de la inversión empresarial y las tensiones en la negociación fiscal.",
+          "emphasizes": [
+            "Estancamiento de la formación bruta de capital fijo frente a niveles prepandemia.",
+            "Impacto de la fiscalidad energética y bancaria en las decisiones de sede e inversión."
+          ],
+          "questionsOrNuances": [
+            "Pregunta cómo se financiarán las pensiones sin aumentar aún más la cuña fiscal sobre los salarios.",
+            "Señala la dependencia del tirón turístico y del gasto público en el crecimiento reciente."
+          ],
+          "articleUrl": "https://www.vozpopuli.com/economia_y_finanzas/"
+        },
+        "la-razon": {
+          "outletId": "la-razon",
+          "angleType": "Crónica Territorial / Social",
+          "headline": "Las comunidades autónomas compiten con rebajas en IRPF y sucesiones frente a la armonización fiscal estatal",
+          "summary": "Destaca la brecha entre la política tributaria central y las bajadas de impuestos impulsadas por gobiernos regionales.",
+          "emphasizes": [
+            "Efecto atracción de capital e inversiones en las comunidades con menor carga fiscal.",
+            "Impacto cotidiano de la cesta de la compra y los suministros en la clase media."
+          ],
+          "questionsOrNuances": [
+            "Pone el foco en la pérdida de poder adquisitivo acumulada desde 2021.",
+            "Cuestiona que una mayor recaudación se traduzca en reducción efectiva de la deuda total."
+          ],
+          "articleUrl": "https://www.larazon.es/economia/"
+        }
+      }
+    },
+    "vivienda": {
+      "topicId": "vivienda",
+      "topicTitle": "Precios del alquiler, zonas tensionadas y oferta residencial",
+      "contextDeck": "El encarecimiento continuado del alquiler en grandes capitales y áreas turísticas enfrenta propuestas de control de precios frente a incentivos fiscales a la nueva oferta.",
+      "primarySources": [
+        "Ministerio de Vivienda y Agenda Urbana — Índice de Referencia",
+        "Instituto Nacional de Estadística (Índice de Precios de Vivienda)",
+        "Consejo General del Notariado y Registradores de España"
+      ],
+      "convergences": [
+        "Todas las cabeceras coinciden en que el acceso a la vivienda es uno de los principales problemas sociales y económicos en España, especialmente para jóvenes.",
+        "Constataron que la formación de nuevos hogares supera ampliamente el ritmo actual de visados de obra nueva.",
+        "Recogen la desigual aplicación territorial de la Ley de Vivienda según el gobierno de cada comunidad autónoma."
+      ],
+      "divergences": [
+        "Unos defienden declarar zonas tensionadas y limitar precios para frenar subidas especulativas; otros sostienen que los topes retraen el alquiler habitual hacia contratos temporales o venta.",
+        "Chocan en la regulación de los pisos turísticos: prioridad a moratorias y prohibiciones frente a seguridad jurídica y libertad de uso.",
+        "Difieren sobre el peso real que debe tener la promoción pública frente a la colaboración con promotores privados."
+      ],
+      "criticalQuestions": [
+        "¿Qué ha ocurrido en las áreas donde ya se aplican índices de referencia con el número total de contratos firmados y con las rentas medias?",
+        "¿Cuántas viviendas de alquiler social o asequible terminadas y entregadas se suman al parque público cada año?"
+      ],
+      "outlets": {
+        "el-pais": {
+          "outletId": "el-pais",
+          "angleType": "Derechos Sociales / Desigualdad",
+          "headline": "El despliegue desigual de la Ley de Vivienda marca la brecha de precios entre comunidades autónomas",
+          "summary": "Destaca los primeros resultados en las regiones que aplican topes al alquiler y aboga por ampliar el parque público y regular los pisos turísticos.",
+          "emphasizes": [
+            "Alivio en renovaciones de contratos en municipios declarados tensionados.",
+            "Necesidad de que las comunidades habiliten herramientas contra el fraude en alquileres de temporada."
+          ],
+          "questionsOrNuances": [
+            "Reconoce que el tope de rentas por sí solo no resuelve la escasez estructural de oferta.",
+            "Analiza el tiempo necesario para que los anuncios de vivienda pública se traduzcan en llaves entregadas."
+          ],
+          "articleUrl": "https://elpais.com/economia/vivienda/"
+        },
+        "el-mundo": {
+          "outletId": "el-mundo",
+          "angleType": "Impacto Económico / Fiscal",
+          "headline": "La oferta de alquiler tradicional se estrecha mientras se dispara el trasvase hacia contratos temporales",
+          "summary": "Pone el foco en la caída del stock disponible en portales y en las advertencias del sector sobre la inseguridad jurídica de los propietarios.",
+          "emphasizes": [
+            "Reducción de pisos ofertados en alquiler de larga duración tras las reformas legales.",
+            "Demora judicial en procedimientos de impago u ocupación como freno a sacar viviendas al mercado."
+          ],
+          "questionsOrNuances": [
+            "Cuestiona la eficacia de las medidas intervencionistas para bajar precios de forma sostenible.",
+            "Reclama agilizar licencias urbanísticas y liberar suelo finalista."
+          ],
+          "articleUrl": "https://www.elmundo.es/economia/vivienda.html"
+        },
+        "el-debate": {
+          "outletId": "el-debate",
+          "angleType": "Institucional / Gobernanza",
+          "headline": "Propietarios y promotores reclaman seguridad jurídica frente a medidas que consideran punitivas para el ahorro inmobiliario",
+          "summary": "Enfoca la crisis habitacional desde la protección de la propiedad privada, la agilización de desahucios por impago y el impulso a la construcción.",
+          "emphasizes": [
+            "Peso mayoritario de pequeños propietarios particulares en el parque español de alquiler.",
+            "Crítica a las limitaciones a la libertad de contratación entre particulares."
+          ],
+          "questionsOrNuances": [
+            "Pregunta por qué no se moviliza el suelo titularidad de administraciones públicas antes de intervenir precios.",
+            "Señala el encarecimiento de materiales e impuestos asociados a la vivienda nueva."
+          ],
+          "articleUrl": "https://www.eldebate.com/economia/"
+        },
+        "the-objective": {
+          "outletId": "the-objective",
+          "angleType": "Fiscalización / Investigación",
+          "headline": "Los registros autonómicos y notariales revelan el impacto dispar de los índices de precios en la firma de contratos",
+          "summary": "Cruza datos de fianzas depositadas, visados de obra nueva y operaciones de compraventa para evaluar las consecuencias reales de cada política.",
+          "emphasizes": [
+            "Diferencia entre viviendas prometidas en planes estatales y promociones realmente iniciadas.",
+            "Auge del alquiler por habitaciones como vía de escape de la regulación."
+          ],
+          "questionsOrNuances": [
+            "Audita el grado de ejecución de las líneas de avales para jóvenes.",
+            "Pregunta qué municipios han rechazado aplicar medidas por falta de datos técnicos homologados."
+          ],
+          "articleUrl": "https://theobjective.com/economia/"
+        },
+        "eldiario": {
+          "outletId": "eldiario",
+          "angleType": "Derechos Sociales / Desigualdad",
+          "headline": "El esfuerzo salarial para pagar un alquiler supera el 40% en las áreas metropolitanas y expulsa a los residentes",
+          "summary": "Prioriza la perspectiva social del derecho a la vivienda, el impacto de los fondos de inversión y la proliferación de viviendas de uso turístico.",
+          "emphasizes": [
+            "Gentrificación de barrios céntricos y desplazamiento de trabajadores esenciales.",
+            "Necesidad de limitar compras especulativas y convertir la vivienda en bien de primera necesidad."
+          ],
+          "questionsOrNuances": [
+            "Critica la negativa de varias comunidades autónomas a aplicar los topes legales previstos.",
+            "Propone reforzar la inspección sobre alojamientos turísticos sin licencia."
+          ],
+          "articleUrl": "https://www.eldiario.es/economia/vivienda/"
+        },
+        "vozpopuli": {
+          "outletId": "vozpopuli",
+          "angleType": "Impacto Económico / Fiscal",
+          "headline": "El déficit de 100.000 viviendas anuales tensiona precios y frena la inversión institucional en build-to-rent",
+          "summary": "Analiza la crisis desde el equilibrio oferta-demanda, los costes de financiación promotora, el suelo disponible y el atractivo para el capital.",
+          "emphasizes": [
+            "Desajuste demográfico en Madrid, Barcelona, Valencia, Málaga y archipiélagos.",
+            "Retirada o redirección de fondos promotores hacia segmentos no intervenidos (flex living)."
+          ],
+          "questionsOrNuances": [
+            "Pregunta si los avales públicos sin aumento de oferta terminan trasladándose a precios más altos.",
+            "Calcula el peso de tasas, IVA e impuestos locales en el precio final de una vivienda nueva."
+          ],
+          "articleUrl": "https://www.vozpopuli.com/economia_y_finanzas/"
+        },
+        "la-razon": {
+          "outletId": "la-razon",
+          "angleType": "Crónica Territorial / Social",
+          "headline": "Ayuntamientos y comunidades buscan suelo público y rebajas fiscales para facilitar el acceso a la primera vivienda",
+          "summary": "Destaca las iniciativas autonómicas basadas en avales hipotecarios, cesión de suelo en derecho de superficie y bonificaciones en Transmisiones.",
+          "emphasizes": [
+            "Dificultad de los jóvenes con empleo estable para reunir el 20% de entrada hipotecaria.",
+            "Modelos regionales de colaboración público-privada para alquiler asequible."
+          ],
+          "questionsOrNuances": [
+            "Señala el choque competencial entre Estado y autonomías en materia urbanística.",
+            "Recoge testimonios de familias desplazadas a coronas metropolitanas."
+          ],
+          "articleUrl": "https://www.larazon.es/economia/"
+        }
+      }
+    },
+    "justicia": {
+      "topicId": "justicia",
+      "topicTitle": "Funcionamiento del Poder Judicial, cargas de trabajo y reformas procesales",
+      "contextDeck": "El Consejo General del Poder Judicial, asociaciones judiciales y el Ministerio debaten medidas para reducir los tiempos de respuesta, cubrir vacantes y reformar el acceso a la carrera.",
+      "primarySources": [
+        "Consejo General del Poder Judicial (Estadística Judicial)",
+        "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+        "Tribunal Supremo — Memoria Anual"
+      ],
+      "convergences": [
+        "Todos los diarios recogen los datos de congestión en determinadas salas, especialmente en lo social, mercantil y contencioso-administrativo.",
+        "Coinciden en que la cobertura de plazas vacantes y la actualización tecnológica de los juzgados son urgentes.",
+        "Recogen las distintas posturas de las asociaciones de jueces y fiscales sobre la organización judicial."
+      ],
+      "divergences": [
+        "Discrepan frontalmente en el sistema de elección de vocales del CGPJ y en la reforma del acceso a la carrera judicial y fiscal.",
+        "Un bloque defiende la reforma organizativa hacia tribunales de instancia para ganar eficiencia; otro alerta de posibles injerencias del Ejecutivo en la independencia o en las oposiciones.",
+        "Difieren al valorar la atribución de la instrucción penal al Ministerio Fiscal frente al modelo tradicional de juez instructor."
+      ],
+      "criticalQuestions": [
+        "¿Cuál es la tasa de resolución y pendencia por jurisdicción según la estadística oficial del CGPJ en los últimos cuatro trimestres?",
+        "¿Qué salvaguardas concretas contemplan los anteproyectos respecto a la autonomía de jueces y fiscales?"
+      ],
+      "outlets": {
+        "el-pais": {
+          "outletId": "el-pais",
+          "angleType": "Institucional / Gobernanza",
+          "headline": "Justicia impulsa la modernización de la planta judicial y la reforma del acceso para agilizar un sistema saturado",
+          "summary": "Destaca la apuesta por los tribunales de instancia, la digitalización y la ampliación de becas para democratizar el acceso a la judicatura.",
+          "emphasizes": [
+            "Reducción de tiempos de espera mediante especialización y medios alternativos de solución de conflictos.",
+            "Convergencia del modelo español de instrucción penal con la mayoría de países europeos."
+          ],
+          "questionsOrNuances": [
+            "Señala la dificultad de lograr consensos con asociaciones judiciales conservadoras.",
+            "Subraya el reto presupuestario de crear nuevas plazas judiciales."
+          ],
+          "articleUrl": "https://elpais.com/espana/tribunales/"
+        },
+        "el-mundo": {
+          "outletId": "el-mundo",
+          "angleType": "Confrontación Política",
+          "headline": "Las asociaciones judiciales alertan contra cualquier cambio en oposiciones o instrucción sin reforzar la independencia",
+          "summary": "Pone en primer plano el malestar mayoritario en la carrera judicial ante reformas percibidas como un intento de control político.",
+          "emphasizes": [
+            "Críticas de jueces y fiscales a modificar el Estatuto del Ministerio Fiscal sin garantizar autonomía respecto al Gobierno.",
+            "Defensa de la oposición memorística anónima como garantía de mérito e igualdad."
+          ],
+          "questionsOrNuances": [
+            "Pregunta por qué no se prioriza la inversión en nuevos juzgados antes que cambios estructurales polémicos.",
+            "Recoge advertencias de la Comisión Europea sobre estándares de independencia judicial."
+          ],
+          "articleUrl": "https://www.elmundo.es/espana.html"
+        },
+        "el-debate": {
+          "outletId": "el-debate",
+          "angleType": "Institucional / Gobernanza",
+          "headline": "La judicatura cierra filas en defensa de la separación de poderes y del sistema objetivo de oposiciones",
+          "summary": "Centra la cobertura en la preservación del Estado de derecho, el respeto a los fallos del Tribunal Supremo y el rechazo a presiones políticas.",
+          "emphasizes": [
+            "Comunicados conjuntos de asociaciones judiciales exigiendo respeto institucional a las resoluciones.",
+            "Riesgos de politización si se alteran las reglas de acceso o nombramientos discrecionales."
+          ],
+          "questionsOrNuances": [
+            "Cuestiona los tiempos elegidos para impulsar reformas procesales en plena legislatura tensa.",
+            "Reclama mayor dotación para el Tribunal Supremo."
+          ],
+          "articleUrl": "https://www.eldebate.com/espana/tribunales/"
+        },
+        "the-objective": {
+          "outletId": "the-objective",
+          "angleType": "Fiscalización / Investigación",
+          "headline": "La estadística del CGPJ revela atascos superiores al año en miles de procedimientos pese al expediente digital",
+          "summary": "Examina las memorias de tribunales superiores, tasas de vacantes en provincias concretas y el rendimiento desigual de las aplicaciones informáticas.",
+          "emphasizes": [
+            "Cientos de plazas sin titular cubiertas mediante jueces sustitutos.",
+            "Falta de interoperabilidad plena entre sistemas informáticos judiciales de distintas comunidades."
+          ],
+          "questionsOrNuances": [
+            "Pregunta cuánto presupuesto comprometido en digitalización ha mejorado realmente la agilidad procesal.",
+            "Analiza el impacto de la nueva ley de eficiencia sobre abogados y procuradores."
+          ],
+          "articleUrl": "https://theobjective.com/espana/tribunales/"
+        },
+        "eldiario": {
+          "outletId": "eldiario",
+          "angleType": "Derechos Sociales / Desigualdad",
+          "headline": "El colapso judicial y la falta de becas en el acceso perpetúan una justicia lenta y poco diversa socialmente",
+          "summary": "Conecta la reforma de la justicia con el derecho ciudadano a una tutela judicial rápida y con la necesidad de ampliar ayudas económicas a opositores.",
+          "emphasizes": [
+            "Demoras graves en reclamaciones laborales, cláusulas abusivas y violencia de género.",
+            "Barrera socioeconómica que supone preparar durante años oposiciones sin ingresos."
+          ],
+          "questionsOrNuances": [
+            "Critica la resistencia corporativa de parte de la cúpula judicial a modernizar el CGPJ.",
+            "Defiende reforzar los juzgados especializados y el turno de oficio."
+          ],
+          "articleUrl": "https://www.eldiario.es/politica/tribunales/"
+        },
+        "vozpopuli": {
+          "outletId": "vozpopuli",
+          "angleType": "Impacto Económico / Fiscal",
+          "headline": "La lentitud de la jurisdicción mercantil y contenciosa lastra la seguridad jurídica y la inversión empresarial",
+          "summary": "Evalúa el coste económico de los retrasos judiciales en concursos de acreedores, pleitos fiscales y recursos administrativos.",
+          "emphasizes": [
+            "Tiempo medio de resolución en conflictos societarios y reclamaciones a la Administración.",
+            "Impacto de la entrada en vigor de los requisitos previos de negociación extrajudicial."
+          ],
+          "questionsOrNuances": [
+            "Pregunta si los métodos alternativos de solución de controversias ralentizarán aún más la admisión de demandas.",
+            "Analiza la litigiosidad generada por impuestos y regulaciones sectoriales."
+          ],
+          "articleUrl": "https://www.vozpopuli.com/espana/"
+        },
+        "la-razon": {
+          "outletId": "la-razon",
+          "angleType": "Crónica Territorial / Social",
+          "headline": "Jueces, abogados y procuradores reclaman más recursos humanos y consenso parlamentario para desatascar los tribunales",
+          "summary": "Recoge las demandas prácticas de los operadores jurídicos en todo el país, subrayando también la situación retributiva del turno de oficio.",
+          "emphasizes": [
+            "Reivindicaciones de los colegios de la abogacía sobre baremos de justicia gratuita y mutualidades.",
+            "Necesidad de pactos amplios para que las reformas procesales perduren."
+          ],
+          "questionsOrNuances": [
+            "Señala el riesgo de conflictividad laboral con funcionarios de justicia si no se negocian cargas de trabajo.",
+            "Destaca el papel equilibrador del Tribunal Constitucional y del Supremo."
+          ],
+          "articleUrl": "https://www.larazon.es/espana/"
+        }
+      }
+    },
+    "sociedad": {
+      "topicId": "sociedad",
+      "topicTitle": "Situación de la Sanidad pública, listas de espera y Atención Primaria",
+      "contextDeck": "Los últimos datos del Sistema de Información sobre Listas de Espera reabren el debate entre inversión en Primaria, conciertos sanitarios y déficit de médicos de familia.",
+      "primarySources": [
+        "Ministerio de Sanidad — Sistema de Información sobre Listas de Espera (SISLE)",
+        "Consejerías de Sanidad autonómicas",
+        "Organización Médica Colegial (OMC)"
+      ],
+      "convergences": [
+        "Todos los periódicos recogen el elevado volumen de pacientes en espera para cirugía no urgente y primeras consultas de especialista.",
+        "Coinciden en que la jubilación masiva de médicos de Atención Primaria y el desgaste tras la pandemia tensionan los centros de salud.",
+        "Señalan que existe una notable desigualdad en los tiempos medios de espera entre comunidades autónomas."
+      ],
+      "divergences": [
+        "Un bloque atribuye el deterioro a recortes históricos y al desvío de recursos hacia la sanidad privada concertada; otro responsabiliza a la rigidez del modelo estatutario y a la falta de planificación estatal de plazas MIR.",
+        "Discrepan sobre el impacto positivo o negativo del crecimiento de los seguros privados de salud como alivio o síntoma de desgaste del sistema público.",
+        "Chocan al valorar la reforma del Estatuto Marco y las condiciones de guardias médicas."
+      ],
+      "criticalQuestions": [
+        "¿Qué porcentaje del gasto sanitario público de cada comunidad se destina actualmente a Atención Primaria frente al ámbito hospitalario y farmacéutico?",
+        "¿Cuántas plazas MIR de Medicina Familiar quedan desiertas o no se cubren y qué reformas de incentivación rural se aplican?"
+      ],
+      "outlets": {
+        "el-pais": {
+          "outletId": "el-pais",
+          "angleType": "Derechos Sociales / Desigualdad",
+          "headline": "Las listas de espera marcan máximos mientras Sanidad y comunidades buscan salidas al déficit de médicos de familia",
+          "summary": "Pone el foco en la necesidad de blindar la Atención Primaria, reforzar la financiación finalista y homogeneizar la medición de demoras entre regiones.",
+          "emphasizes": [
+            "Aumento sostenido de los seguros privados en las ciudades donde la espera pública es mayor.",
+            "Propuestas para mejorar las condiciones de guardias de 24 horas y retener talento."
+          ],
+          "questionsOrNuances": [
+            "Señala la dificultad de coordinar 17 servicios regionales de salud con competencias plenas.",
+            "Advierte sobre las diferencias de criterio contable en las listas autonómicas."
+          ],
+          "articleUrl": "https://elpais.com/sociedad/"
+        },
+        "el-mundo": {
+          "outletId": "el-mundo",
+          "angleType": "Fiscalización / Investigación",
+          "headline": "La falta de médicos en Primaria y las demoras quirúrgicas ponen a prueba la capacidad de respuesta del sistema",
+          "summary": "Analiza la escasez estructural de facultativos, las fugas al extranjero por diferencias salariales y las tensiones sindicales por el Estatuto Marco.",
+          "emphasizes": [
+            "Malestar de los sindicatos médicos por la sobrecarga de agendas y la falta de reconocimiento específico.",
+            "Pérdida de profesionales jóvenes formados en España hacia países europeos."
+          ],
+          "questionsOrNuances": [
+            "Cuestiona que el Ministerio no amplíe con mayor agilidad la homologación y oferta de especialidades deficitarias.",
+            "Compara resultados de gestión entre comunidades con modelos distintos."
+          ],
+          "articleUrl": "https://www.elmundo.es/ciencia-y-salud.html"
+        },
+        "el-debate": {
+          "outletId": "el-debate",
+          "angleType": "Institucional / Gobernanza",
+          "headline": "El consenso sanitario reclama más plazas MIR y cooperación público-privada sin prejuicios ideológicos",
+          "summary": "Defiende aprovechar toda la capacidad instalada —pública y concertada— para reducir las esperas de los pacientes y critica los vetos ideológicos.",
+          "emphasizes": [
+            "Utilidad de los conciertos quirúrgicos puntuales para aliviar demoras graves.",
+            "Crítica a las reformas laborales sanitarias impulsadas sin acuerdo previo con los colegios médicos."
+          ],
+          "questionsOrNuances": [
+            "Pregunta por la gestión centralizada de las listas de acceso a facultades y formación especializada.",
+            "Destaca el papel de la sanidad privada descargando consultas del sistema público."
+          ],
+          "articleUrl": "https://www.eldebate.com/sociedad/"
+        },
+        "the-objective": {
+          "outletId": "the-objective",
+          "angleType": "Fiscalización / Investigación",
+          "headline": "Los registros autonómicos revelan diferencias de más de cien días en espera quirúrgica según el código postal",
+          "summary": "Contrasta las cifras oficiales enviadas al Ministerio con los datos brutos de demoras estructurales y no estructurales en los hospitales.",
+          "emphasizes": [
+            "Pacientes en espera de prueba diagnóstica que no siempre computan en las estadísticas principales.",
+            "Coste de las horas extraordinarias (peonadas) frente a conciertos externos."
+          ],
+          "questionsOrNuances": [
+            "Pregunta por el grado real de cumplimiento de los decretos autonómicos de garantía de plazos.",
+            "Audita el gasto farmacéutico hospitalario creciente."
+          ],
+          "articleUrl": "https://theobjective.com/sanidad/"
+        },
+        "eldiario": {
+          "outletId": "eldiario",
+          "angleType": "Derechos Sociales / Desigualdad",
+          "headline": "Mareas blancas y profesionales exigen blindar la sanidad pública frente al avance de la privatización y los seguros",
+          "summary": "Sitúa el eje en la defensa del modelo público universal, denunciando el trasvase presupuestario a grupos privados y la precariedad en centros de salud.",
+          "emphasizes": [
+            "Riesgo de un sistema dual: sanidad privada para quien pueda pagarla y pública saturada.",
+            "Importancia de reforzar la salud mental pública y la salud bucodental."
+          ],
+          "questionsOrNuances": [
+            "Critica las rebajas fiscales autonómicas mientras faltan plantillas en ambulatorios.",
+            "Exige auditorías estrictas sobre los beneficios de concesiones sanitarias."
+          ],
+          "articleUrl": "https://www.eldiario.es/sociedad/"
+        },
+        "vozpopuli": {
+          "outletId": "vozpopuli",
+          "angleType": "Impacto Económico / Fiscal",
+          "headline": "El gasto sanitario y farmacéutico presiona las cuentas autonómicas en plena expansión del seguro privado",
+          "summary": "Examina la sostenibilidad financiera de la sanidad española ante el envejecimiento, los nuevos tratamientos oncológicos y la crisis de Muface.",
+          "emphasizes": [
+            "Impacto económico del absentismo por bajas médicas prolongadas vinculadas a demoras sanitarias.",
+            "Negociación de primas y costes en el mutualismo administrativo."
+          ],
+          "questionsOrNuances": [
+            "Pregunta cómo financiarán las comunidades el aumento del gasto sanitario sin romper objetivos fiscales.",
+            "Analiza las inversiones en biotecnología y equipamiento hospitalario."
+          ],
+          "articleUrl": "https://www.vozpopuli.com/sanidad/"
+        },
+        "la-razon": {
+          "outletId": "la-razon",
+          "angleType": "Crónica Territorial / Social",
+          "headline": "Las comunidades activan planes de choque y telemedicina para contener las esperas y fidelizar médicos en el medio rural",
+          "summary": "Recoge las iniciativas territoriales para cubrir plazas de difícil cobertura, ampliar horarios de quirófano y reforzar la atención a crónicos.",
+          "emphasizes": [
+            "Incentivos económicos y de puntuación en oposiciones para médicos en zonas rurales.",
+            "Incorporación de herramientas digitales para reducir burocracia en las consultas de cabecera."
+          ],
+          "questionsOrNuances": [
+            "Pide sacar la sanidad del enfrentamiento partidista en el Consejo Interterritorial.",
+            "Subraya el reconocimiento ciudadano a la vocación de médicos y enfermeras."
+          ],
+          "articleUrl": "https://www.larazon.es/sociedad/"
+        }
+      }
+    }
+  }
+}

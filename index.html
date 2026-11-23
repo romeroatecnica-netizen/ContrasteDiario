@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ContrasteDiario — Comparador Diario de Prensa de España por Temas</title>
+    <meta
+      name="description"
+      content="Compara cada día la cobertura y perspectiva editorial de El País, El Mundo, El Debate, The Objective, elDiario.es, Vozpópuli y La Razón sobre la actualidad de España."
+    />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large" />
+
+    <link rel="canonical" href="https://contrastediario.bastelar.com/" />
+    <link rel="alternate" hreflang="es" href="https://contrastediario.bastelar.com/" />
+    <link rel="alternate" hreflang="x-default" href="https://contrastediario.bastelar.com/" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_ES" />
+    <meta property="og:site_name" content="ContrasteDiario" />
+    <meta property="og:url" content="https://contrastediario.bastelar.com/" />
+    <meta property="og:title" content="ContrasteDiario — Comparador Diario de Prensa de España por Temas" />
+    <meta
+      property="og:description"
+      content="Analiza en una matriz editorial clara el enfoque de los 7 principales diarios de España por temas: política, economía, vivienda, justicia y sociedad."
+    />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="ContrasteDiario — Comparador Diario de Prensa de España por Temas" />
+    <meta
+      name="twitter:description"
+      content="Contraste editorial diario entre El País, El Mundo, El Debate, The Objective, elDiario.es, Vozpópuli y La Razón."
+    />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "ContrasteDiario",
+        "alternateName": "ContrasteDiario — Comparador Diario de Prensa de España",
+        "url": "https://contrastediario.bastelar.com/",
+        "inLanguage": "es",
+        "applicationCategory": "NewsApplication",
+        "operatingSystem": "All",
+        "description": "Comparador diario determinista en español para contrastar por temas la cobertura y el enfoque editorial de El País, El Mundo, El Debate, The Objective, elDiario.es, Vozpópuli y La Razón.",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "EUR"
+        }
+      }
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "¿Cómo funciona la actualización diaria de ContrasteDiario?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Al abrir la aplicación, ContrasteDiario consulta primero el archivo /daily-brief.json sin caché para mostrar el parte temático del día si existe una publicación automatizada. Si no está disponible o se consulta otra fecha, activa de forma local y determinista su motor editorial por fecha (YYYY-MM-DD) y tema, sin consumir APIs externas de pago."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Qué periódicos españoles incluye la matriz comparativa?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "La matriz compara siete cabeceras de referencia y análisis de España: El País, El Mundo, El Debate, The Objective, elDiario.es, Vozpópuli y La Razón, cubriendo prensa generalista tradicional, nativos digitales de investigación y medios de enfoque económico e institucional."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Cómo ayuda este comparador a evitar el sesgo de confirmación?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "En lugar de mostrar una única línea editorial, ContrasteDiario desglosa un mismo tema en hechos compartidos (convergencias) y puntos de fricción interpretativa (divergencias), destacando qué enfatiza y qué matiza cada periódico para facilitar una lectura crítica."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "¿Puedo guardar notas personales o editar una edición diaria en formato JSON?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sí. Tus temas revisados, cabeceras consultadas, notas por fecha y tema y ediciones personalizadas se guardan localmente en tu navegador mediante localStorage, y puedes exportar o importar todo en archivos JSON."
+            }
+          }
+        ]
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
